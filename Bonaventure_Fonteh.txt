@@ -1,0 +1,16 @@
+  189  ls
+  190  touch identity.txt
+  191  nano identity.txt
+  192  git init
+  193  git config -global user.name "Bonaventure Fonteh"
+  194  git config --global user.name "Bonaventure Fonteh"
+  195  git config --global user.email "kfonteh@aimsammi.org"
+  196  git add .
+  197  git status
+  198  git commit -m "Entered my personal info"
+  199  git add remote origin https://github.com/BFonteh/Git-assignment.git
+  200  git add  origin https://github.com/BFonteh/Git-assignment.git
+  201  git remote add origin https://github.com/BFonteh/Git-assignment.git
+  202  git remote -v
+  203  git push -all
+  204  git push --all
